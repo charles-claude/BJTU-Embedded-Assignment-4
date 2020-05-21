@@ -69,5 +69,5 @@ Then you can copy custom android OS on the sd-card into the corresponding partit
 
 ## Running screens
 
-We tried to make it work on our raspberry, but without screen because we don't have required wired to connect it (micro hdmi to mini hdmi).
+We tried to make it work on our raspberry, but without screen because we don't have required wired to connect it (micro hdmi to mini hdmi).  
 And unfortunately we were not able to make it work with qemu. We got a black screen with a message "the host didn't choose display yet" everytime.
