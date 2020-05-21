@@ -14,7 +14,7 @@ Louison HARIZI 19129047
 Before everything else, we need to install or update all needed packages using following commands:
 ```bash
 sudo apt-get update
-sudo  apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache libgl1-mesa-dev libxml2-utils xsltproc unzip
+sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev ccache libgl1-mesa-dev libxml2-utils xsltproc unzip
 sudo apt install gcc-arm-linux-gnueabihf
 sudo apt-get install python-mako
 ```
@@ -29,7 +29,7 @@ repo sync
 
 ## Step 3
 
-The 'repo sync' command can take a lot of time.  
+The step 2 command can take a lot of time.  
 Then go into the "kernel/rpi folder".
 ```bash
 cd kernel/rpi
